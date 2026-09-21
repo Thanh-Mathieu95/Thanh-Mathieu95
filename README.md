@@ -55,6 +55,4 @@ to my personal GitHub profile!
 ![Vector DB](https://img.shields.io/badge/-Vector%20DB-4B8BBE?style=flat-square)
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Thanh-Mathieu95&count_private=true&show_icons=true&include_all_commits=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Thanh-Mathieu95.Thanh-Mathieu95)
