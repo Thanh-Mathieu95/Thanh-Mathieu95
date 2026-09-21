@@ -11,8 +11,8 @@ to my personal GitHub profile!
 </div>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mathieu-nguyen-2b012724b)
+[![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.duongthanh09052006@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-Thanh--Mathieu95-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Thanh-Mathieu95)
 
 ##  Technologies
