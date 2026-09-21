@@ -10,15 +10,13 @@
 to my personal GitHub profile!
 </div>
 
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am **Thanh**, a final-year Information Systems student at [FPT University](https://fpt.edu.vn/). I'm focusing on **AI Engineering** and **Business Analysis**, and I'm the founder of **HolaBus** — a student-focused bus ticket booking startup. Always open to collaborating on projects and innovative ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 [![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-Thanh--Mathieu95-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Thanh-Mathieu95)
 
-## ⚡ Technologies
+##  Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
