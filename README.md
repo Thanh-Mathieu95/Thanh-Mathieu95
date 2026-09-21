@@ -1,12 +1,21 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
 
-I am **Thanh**, a final-year Information Systems student at [FPT University](https://fpt.edu.vn/). I'm focusing on **AI Engineering** and **Business Analysis**, and I'm the founder of **HolaBus** — a student-focused bus ticket booking startup. Always open to collaborating on projects and innovative ideas. Feel free to connect with me here:
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
+
+<div align="center">
+to my personal GitHub profile!
+</div>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 [![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-Thanh--Mathieu95-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Thanh-Mathieu95)
 
-## ⚡ Technologies
+##  Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -24,9 +33,6 @@ I am **Thanh**, a final-year Information Systems student at [FPT University](htt
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-## 🤖 AI & Agents
-
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/-YOLOv11-111F68?style=flat-square&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
