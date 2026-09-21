@@ -35,6 +35,3 @@ to my personal GitHub profile!
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Thanh-Mathieu95&count_private=true&show_icons=true&include_all_commits=true)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Thanh-Mathieu95.Thanh-Mathieu95)
